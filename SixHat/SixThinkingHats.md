@@ -95,7 +95,7 @@ Six Thinking Hats is a method for parallel thinking developed by Edward de Bono.
 
 # Example Application
 
-Use **Six Thinking Hats** to perceive and evaluate this [video](https://duckduckgo.com).
+Use **Six Thinking Hats** to perceive and evaluate this [video](https://youtu.be/acg6HivAu5E).
 ![bg right width:400px](hats/youtube.png)
 
 ---
